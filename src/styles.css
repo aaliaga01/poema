@@ -1,0 +1,41 @@
+/* You can add global styles to this file, and also import other style files */
+#contenedor{
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.cont-izq{
+  width: 50%;
+  float: left;
+  overflow: hidden;
+}
+
+.cont-der{
+  width: 50%;
+  float: right;
+  overflow: hidden;
+}
+
+.cabecera{
+  font-family: 'Cinzel Decorative', cursive;
+}
+
+h1{
+  font-size: 60px;
+}
+
+.versos{
+  font-family: 'Tangerine', cursive;
+  font-size: 30px;
+}
+
+.verso1,.verso2{
+  margin: 70px 0;
+}
+
+p{
+  margin: 0;
+  padding: 0;
+}
+
